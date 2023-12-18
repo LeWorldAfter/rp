@@ -1,0 +1,28 @@
+Vanilla Tweaks Resource Pack
+Version: 1.16
+Packs:
+	DifferentStems
+	VariatedBookshelves
+	QuieterDispensersDroppers
+	QuieterPistons
+	QuieterCows
+	Age25Kelp
+	StickyPistonSides
+	DirectionalHoppers
+	BetterObservers
+	CleanRedstoneDust
+	BrewingGuideDark
+	VisualHoney
+	NoteblockBanners
+	LowerFire
+	LowerShield
+	WitherHearts
+	PingColorIndicator
+	RainbowExperience
+	DarkUI
+	ItemStitchingFix
+	NicerFastLeaves
+
+	[Twilicane]
+	[ILoveDerpyBand]
+        [EasterEggs]

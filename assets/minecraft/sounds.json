@@ -1,0 +1,64 @@
+{
+ "twcn.pwr": {
+  "subtitle": "twilicane powers up",
+  "sounds": [
+   {
+		"name":"twcn/fim_pwr",
+		"stream":"true"
+   }
+  ]
+ },
+ "xmas.welcome": {
+ "subtitle": "Christmas Carol Plays",
+ "sounds": [
+   {
+		"name":"xmas/alliwant4xmas",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/dotheyknow",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/feliznavidad",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/jinglebells",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/lastchristmas",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/ocomeemanuel",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/santacomingtown",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/silentnight",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/silverbells",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/sothisisxmas",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/wewishuxmas",
+		"stream":"true"
+   },
+   {
+		"name":"xmas/whitexmas",
+		"stream":"true"
+   }
+  ]
+ }
+}

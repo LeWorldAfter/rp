@@ -1,0 +1,52 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 41701
+      },
+      "model": "eastereggs:item/easter_egg_poken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41702
+      },
+      "model": "eastereggs:item/easter_egg_sm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41703
+      },
+      "model": "eastereggs:item/easter_egg_jerin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41704
+      },
+      "model": "eastereggs:item/easter_egg_pbn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41705
+      },
+      "model": "eastereggs:item/easter_egg_pat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41706
+      },
+      "model": "eastereggs:item/easter_egg_shaun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41707
+      },
+      "model": "eastereggs:item/easter_egg_neggs"
+    }
+  ]
+}

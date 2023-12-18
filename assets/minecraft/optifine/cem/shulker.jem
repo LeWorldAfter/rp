@@ -1,0 +1,25 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-8, 4, -8, 16, 12, 16], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"id": "sub_lid",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-4.5, 16, 0, 9, 5, 0], "textureOffset": [0, 0]},
+						{"coordinates": [-0.5, 16, -4.5, 0, 5, 9], "textureOffset": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}
